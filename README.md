@@ -10,3 +10,24 @@ https://www.jianshu.com/p/0e2faa125219
 
 https://blog.csdn.net/chenhaifeng2016/article/details/55004417
 
+
+
+##  Document
+
+https://coreos.com/os/docs/latest/
+
+
+
+```
+
+Bare Metal
+Using Matchbox
+Booting with iPXE
+Booting with PXE
+Installing to Disk
+Booting from ISO
+Root filesystem placement
+
+```
+
+
